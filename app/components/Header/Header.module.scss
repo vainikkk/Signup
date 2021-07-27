@@ -1,0 +1,16 @@
+.header_wrapper {
+  height: 70px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  .right_side {
+    margin: 20px;
+    color: #188fff;
+  }
+  .logo {
+    margin: 26px;
+    color: blue;
+    font-weight: 600;
+    font-size: 20px;
+  }
+}
